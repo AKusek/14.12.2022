@@ -1,0 +1,48 @@
+body{
+    width: auto;
+    height: 768px;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to top right, rgb(67, 199, 204) , rgb(183, 96, 223));
+}
+.content{
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    border-radius: 5px;
+    font-family: Arial Black;
+}
+.title{
+    clear: both;
+    font-size: 64px;
+    width: auto;
+    height: 100px;
+    margin: 0px;
+    text-align: center;
+}
+.choose{
+    clear: both;
+    width: auto;
+    height: 50px;
+}
+.user{
+    clear: both;
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
+.password{
+    clear: both;
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
+.login{
+    clear: both;
+}
+.signUp{
+    clear: both;
+}
+.signUp2{
+    clear: both;
+}
